@@ -705,5 +705,6 @@ isotopes = [
     id: 74,
     name: "Tungsten",
     symbol: "W",
-    weight: 183.84"
+    weight: 183.84
+  }
 ]
